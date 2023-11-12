@@ -1,0 +1,5 @@
+linux/armbe/meterpreter_reverse_http
+linux/armbe/meterpreter_reverse_https
+linux/armbe/meterpreter_reverse_tcp
+linux/armbe/shell_bind_tcp
+

@@ -1,0 +1,4 @@
+firefox/exec
+firefox/shell_bind_tcp
+firefox/shell_reverse_tcp
+

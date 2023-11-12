@@ -1,0 +1,12 @@
+linux/armle/adduser
+linux/armle/exec
+linux/armle/meterpreter/bind_tcp
+linux/armle/meterpreter/reverse_tcp
+linux/armle/meterpreter_reverse_http
+linux/armle/meterpreter_reverse_https
+linux/armle/meterpreter_reverse_tcp
+linux/armle/shell/bind_tcp
+linux/armle/shell/reverse_tcp
+linux/armle/shell_bind_tcp
+linux/armle/shell_reverse_tcp
+

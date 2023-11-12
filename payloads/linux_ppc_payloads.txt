@@ -1,0 +1,7 @@
+linux/ppc/meterpreter_reverse_http
+linux/ppc/meterpreter_reverse_https
+linux/ppc/meterpreter_reverse_tcp
+linux/ppc/shell_bind_tcp
+linux/ppc/shell_find_port
+linux/ppc/shell_reverse_tcp
+

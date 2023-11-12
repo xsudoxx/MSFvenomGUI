@@ -1,0 +1,4 @@
+windows/powershell_bind_tcp
+windows/powershell_reverse_tcp
+windows/powershell_reverse_tcp_ssl
+

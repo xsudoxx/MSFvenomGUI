@@ -1,0 +1,4 @@
+linux/ppc64/shell_bind_tcp
+linux/ppc64/shell_find_port
+linux/ppc64/shell_reverse_tcp
+

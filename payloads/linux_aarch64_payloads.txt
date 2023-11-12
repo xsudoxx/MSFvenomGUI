@@ -1,0 +1,7 @@
+linux/aarch64/meterpreter/reverse_tcp
+linux/aarch64/meterpreter_reverse_http
+linux/aarch64/meterpreter_reverse_https
+linux/aarch64/meterpreter_reverse_tcp
+linux/aarch64/shell/reverse_tcp
+linux/aarch64/shell_reverse_tcp
+

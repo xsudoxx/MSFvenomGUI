@@ -1,0 +1,3 @@
+r/shell_bind_tcp
+r/shell_reverse_tcp
+

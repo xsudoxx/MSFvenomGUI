@@ -1,0 +1,4 @@
+linux/ppce500v2/meterpreter_reverse_http
+linux/ppce500v2/meterpreter_reverse_https
+linux/ppce500v2/meterpreter_reverse_tcp
+

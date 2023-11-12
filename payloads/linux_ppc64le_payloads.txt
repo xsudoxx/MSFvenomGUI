@@ -1,0 +1,4 @@
+linux/ppc64le/meterpreter_reverse_http
+linux/ppc64le/meterpreter_reverse_https
+linux/ppc64le/meterpreter_reverse_tcp
+

@@ -1,0 +1,4 @@
+linux/zarch/meterpreter_reverse_http
+linux/zarch/meterpreter_reverse_https
+linux/zarch/meterpreter_reverse_tcp
+

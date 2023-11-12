@@ -1,0 +1,10 @@
+linux/mipsbe/exec
+linux/mipsbe/meterpreter/reverse_tcp
+linux/mipsbe/meterpreter_reverse_http
+linux/mipsbe/meterpreter_reverse_https
+linux/mipsbe/meterpreter_reverse_tcp
+linux/mipsbe/reboot
+linux/mipsbe/shell/reverse_tcp
+linux/mipsbe/shell_bind_tcp
+linux/mipsbe/shell_reverse_tcp
+

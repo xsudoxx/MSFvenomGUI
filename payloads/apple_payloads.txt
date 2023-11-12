@@ -1,0 +1,8 @@
+apple_ios/aarch64/meterpreter_reverse_http
+apple_ios/aarch64/meterpreter_reverse_https
+apple_ios/aarch64/meterpreter_reverse_tcp
+apple_ios/aarch64/shell_reverse_tcp
+apple_ios/armle/meterpreter_reverse_http
+apple_ios/armle/meterpreter_reverse_https
+apple_ios/armle/meterpreter_reverse_tcp
+

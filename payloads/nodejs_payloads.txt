@@ -1,0 +1,4 @@
+nodejs/shell_bind_tcp
+nodejs/shell_reverse_tcp
+nodejs/shell_reverse_tcp_ssl
+

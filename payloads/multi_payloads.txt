@@ -1,0 +1,3 @@
+multi/meterpreter/reverse_http
+multi/meterpreter/reverse_https
+
